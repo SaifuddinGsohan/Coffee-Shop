@@ -1,6 +1,6 @@
 # Coffee-App-React-Native
 
-![Image](https://s3-alpha.figma.com/hub/file/4091238344/08b7129e-48f6-4a15-be20-974b8b3f99d9-cover.png)
+![Image](https://i.ibb.co/JCQdpwZ/Coffee-Shop-App-thumbnail.png)
 
   
   <p align="left">
