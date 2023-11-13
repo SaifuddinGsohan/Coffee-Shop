@@ -1,7 +1,8 @@
 # Coffee-App-React-Native
 
-![Image](https://i.ibb.co/JCQdpwZ/Coffee-Shop-App-thumbnail.png)
-
+  <p>
+    <a href="https://youtu.be/US9RCupvyXM"><img alt="Youtube" title="Youtube"  src="https://i.ibb.co/JCQdpwZ/Coffee-Shop-App-thumbnail.png"/></a>
+  </p>
   
   <p align="left">
     <a href="https://youtu.be/US9RCupvyXM"><img alt="Youtube" title="Youtube"  src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
